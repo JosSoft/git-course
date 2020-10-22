@@ -1,0 +1,5 @@
+errors.txt
+*.php
+*.css
+
+/logs
